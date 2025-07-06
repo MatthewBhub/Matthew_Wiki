@@ -4,7 +4,7 @@
 Join my public discord server,
 https://discord.gg/jTwJ7Swyw2
 
-In the wiki channel you can use the following commands:
+In the #wiki channel you can use the following commands:
 
 use the following command to add or overwrite articles
 ```
