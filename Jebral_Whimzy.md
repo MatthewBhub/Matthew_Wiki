@@ -1,1 +1,3 @@
-Jebral Whimzy is known as many things but his most infamous interpretation is being Matto Sama's true idintity. jebral has commited many evils during his life and has gotten away with it too despite of the intervention of nosey teenagers. Currently on the run no one has been able to track him down but there is a strong suspicion that he is parading around as this "Matto Sama".
+# Jebral Whimzy
+
+Jebral Whimzy is known as many things but his most infamous interpretation is being [Matto Sama](https://matto-sama.neocities.org/wiki#Matto_Sama)'s true idintity. jebral has commited many evils during his life and has gotten away with it too despite of the intervention of nosey teenagers. Currently on the run no one has been able to track him down but there is a strong suspicion that he is parading around as this "Matto Sama".
