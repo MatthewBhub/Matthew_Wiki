@@ -1,1 +1,1 @@
-This is a new wiki page about something cool.
+This article exists already.
