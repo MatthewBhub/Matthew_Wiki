@@ -2,8 +2,6 @@
 
 **Matthew Moments**, better known online as **Matto_sama** or **Matt**, is a [YouTuber](https://www.youtube.com/@matto_sama), [animator](https://matto-sama.neocities.org/), artist, and game developer known for his whimsical evil personality, which he displays in his streams, animations, and videos.
 
-![Matto-sama](https://static.wikia.nocookie.net/youtube/images/a/af/Matto-sama.png/revision/latest/scale-to-width-down/1000?cb=20250113133632)
-
 | **Field**              | **Info** |
 |------------------------|----------|
 | **Image**           | ![Matto-sama](https://static.wikia.nocookie.net/youtube/images/a/af/Matto-sama.png/revision/latest/scale-to-width-down/1000?cb=20250113133632) |
