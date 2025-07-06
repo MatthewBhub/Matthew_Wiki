@@ -4,7 +4,7 @@
 
 | **Field**              | **Info** |
 |------------------------|----------|
-| **Image**           | ![Matto-sama]([https://static.wikia.nocookie.net/youtube/images/a/af/Matto-sama.png/revision/latest/scale-to-width-down/1000?cb=20250113133632](https://pbs.twimg.com/profile_images/1811858223726505984/TkpsBlT4_400x400.jpg)) |
+| **Image**           | ![Matto-sama]([https://pbs.twimg.com/profile_images/1811858223726505984/TkpsBlT4_400x400.jpg)) |
 | **Username**           | Matto_Sama |
 | **Full Name**          | Matthew Moments |
 | **Pronouns**           | he/him |
