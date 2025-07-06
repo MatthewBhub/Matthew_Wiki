@@ -1,8 +1,16 @@
 # How To Contribute:
 ---
 
-Simply add a new file with the .md file extension to the following repo
+Join my public discord server,
+https://discord.gg/jTwJ7Swyw2
 
-https://github.com/MatthewBhub/Matthew_Wiki
+In the wiki channel you can use the following commands:
 
-the CSS is a bit messed up right now but most markup features should work fine enough.
+use the following command to add or overwrite articles
+```
+!add filename.md content
+```
+use the following command to delete articles
+```
+!delete filename.md
+```
