@@ -1,5 +1,4 @@
 # How To Contribute:
----
 
 Join my public discord server,
 https://discord.gg/jTwJ7Swyw2
