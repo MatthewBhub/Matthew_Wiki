@@ -1,11 +1,11 @@
-# Matto\_Sama
+# Matto_Sama
 
-**Matthew Moments**, better known online as **Matto\_sama** or **Matt**, is a [YouTuber](https://www.youtube.com/@matto_sama), [animator](https://matto-sama.neocities.org/), artist, and game developer known for his whimsical evil personality, which he displays in his streams, animations, and videos.
+**Matthew Moments**, better known online as **Matto_sama** or **Matt**, is a [YouTuber](https://www.youtube.com/@matto_sama), [animator](https://matto-sama.neocities.org/), artist, and game developer known for his whimsical evil personality, which he displays in his streams, animations, and videos.
 
 | **Field**              | **Info** |
 |------------------------|----------|
-| **Image**           | \<img src="https://pbs.twimg.com/profile_images/1811858223726505984/TkpsBlT4_400x400.jpg" width="300" height="300"\> |
-| **Username**           | Matto\_Sama |
+| **Image**           | <img src="https://pbs.twimg.com/profile_images/1811858223726505984/TkpsBlT4_400x400.jpg" width="300" height="300"> |
+| **Username**           | Matto_Sama |
 | **Full Name**          | Matthew Moments |
 | **Pronouns**           | he/him |
 | **Nationality**        | Dutch |
@@ -18,7 +18,7 @@
 | **Channel Trailer**    | [Watch](https://www.youtube.com/watch?v=LM9tlX9Cruw) |
 | **Most Viewed Video**  | [Watch](https://www.youtube.com/watch?v=myTqw-4dWFE) |
 | **First Video**        | [Watch](https://www.youtube.com/watch?v=YXrz0gd3Ik) *(private)* |
-| **Twitter**            | [@Matthew\_Moments](https://x.com/Matthew_Moments) |
+| **Twitter**            | [@Matthew_Moments](https://x.com/Matthew_Moments) |
 | **Other Media**        | [Twitch](https://www.twitch.tv/matto_sama) • [Patreon](https://www.patreon.com/Matto_Sama) • [Discord](https://discord.gg/xF4CpTX7YR) • [Website](https://matto-sama.neocities.org) |
 
 -----
@@ -45,9 +45,9 @@ According to user-submitted lore on his [website](https://matto-sama.neocities.o
 
 ## Gallery
 
-\<img src="[https://pbs.twimg.com/profile\_images/1811858223726505984/TkpsBlT4\_400x400.jpg](https://pbs.twimg.com/profile_images/1811858223726505984/TkpsBlT4_400x400.jpg)" alt="Matto-sama" width="300" height="300"\>
-\<img src="[https://pbs.twimg.com/media/Gl7od2hWQAEE9a-?format=jpg\&name=4096x4096](https://pbs.twimg.com/media/Gl7od2hWQAEE9a-?format=jpg&name=4096x4096)" alt="Matto-sama2" width="300" height="300"\>
-\<img src="[https://pbs.twimg.com/media/GUplhZiWEAAJWIk?format=png\&name=900x900](https://pbs.twimg.com/media/GUplhZiWEAAJWIk?format=png&name=900x900)" alt="Matto-sama3" width="300" height="300"\>
+<img src="https://pbs.twimg.com/profile_images/1811858223726505984/TkpsBlT4_400x400.jpg" alt="Matto-sama" width="300" height="300">
+<img src="https://pbs.twimg.com/media/Gl7od2hWQAEE9a-?format=jpg&name=4096x4096" alt="Matto-sama2" width="300" height="300">
+<img src="https://pbs.twimg.com/media/GUplhZiWEAAJWIk?format=png&name=900x900" alt="Matto-sama3" width="300" height="300">
 
 -----
 
