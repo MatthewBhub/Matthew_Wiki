@@ -46,6 +46,9 @@ According to user-submitted lore on his [website](https://matto-sama.neocities.o
 ## Gallery
 
 ![Matto-sama](https://pbs.twimg.com/profile_images/1811858223726505984/TkpsBlT4_400x400.jpg)
+![Matto-sama2](https://pbs.twimg.com/media/Gl7od2hWQAEE9a-?format=jpg&name=4096x4096)
+![Matto-sama3](https://pbs.twimg.com/media/GUplhZiWEAAJWIk?format=png&name=900x900)
+
 
 ---
 
