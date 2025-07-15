@@ -88,14 +88,14 @@ HTML `<img>` and `<a>` tags work as expected.
 
 <p>Here's an image embedded directly via HTML:</p>
 <img
-src="[https://placehold.co/300x150/FF6347/FFFFFF?text=HTML+Image](https://placehold.co/300x150/FF6347/FFFFFF?text=HTML+Image)"
+src="https://placehold.co/300x150/FF6347/FFFFFF?text=HTML+Image"
 alt="Placeholder HTML Image"
 style="border: 2px solid tomato; border-radius: 5px; display: block; margin: 10px 0;"
 />
 <p>
 And a
 <a
-href="[https://www.example.com](https://www.example.com)"
+href="https://www.example.com"
 target="_blank"
 style="color: #007bff; text-decoration: underline;"
 >link to an external website</a
