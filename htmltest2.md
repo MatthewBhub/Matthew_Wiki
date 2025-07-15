@@ -1,21 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Test Page</title>
-  <style>
-    .container { padding: 20px; background: #f0f0f0; }
-    .header, .footer { background: #ccc; padding: 10px; }
-    .content { display: flex; gap: 20px; }
-    .sidebar { width: 200px; background: #ddd; }
-    .main { flex: 1; background: #fff; padding: 10px; }
-    .card { margin-bottom: 15px; border: 1px solid #aaa; padding: 10px; }
-    .title { font-weight: bold; }
-    .button { padding: 5px 10px; background: blue; color: white; border: none; }
-  </style>
-</head>
-<body>
+
   <div class="container">
     <div class="header">
       <div class="nav">
@@ -52,5 +35,3 @@
       <div class="footer-content">© 2025 My Website</div>
     </div>
   </div>
-</body>
-</html>
