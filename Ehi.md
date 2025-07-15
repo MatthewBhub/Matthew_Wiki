@@ -1,0 +1,1 @@
+Ehi is a beloved member of the Matthew community. They like to wear cool striped clothing. ![picture of Ehi and Mippit girl](https://i.imgur.com/Fn4iVFf.png)
